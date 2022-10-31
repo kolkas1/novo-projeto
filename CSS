@@ -1,0 +1,81 @@
+h2{
+    text-align: center;
+}
+
+header{
+    margin-top: 20px;
+    box-shadow: 0 1px 0 0;
+}
+
+.logodafaa{
+    margin-left: 110px;
+    margin-bottom: 10px;
+}
+.principal {
+    margin: 12% auto;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 19.5%;
+}
+
+.principal-{
+    display: block;
+}
+
+
+.input-padrao{
+    display:block;
+    padding: 9px 75px;
+    margin: 15px 25px;               /* margin: (pra cima e pra baixo)  ( esquerda direita) */
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.acessar{
+    display:block;
+    padding: 11px 135px;
+    margin:  15px 25px;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(42, 153, 42);
+}
+
+.acessar:hover{
+    cursor: pointer;
+    background-color: rgb(22, 131, 22);
+}
+
+.esqueci{
+    display:block;
+    padding: 11px 95px;
+    margin:  0 25px;
+    margin-bottom: 25px;
+    border: 1px solid rgb(16, 3, 201);
+    border-radius: 4px;
+    color:blue;
+}
+
+.esqueci:hover{
+    cursor: pointer;
+    color: white;
+    background-color: rgb(108, 108, 228);
+}
+
+form a{
+    display:inline-block;
+    margin: 0 28px;
+    margin-bottom: 40px;
+    font-size: 17px;
+}
+
+.acessarcomo{
+    padding: 5px 5px;
+}
+
+.acessarcomo:hover{
+    cursor:pointer;
+    color:white;
+    background-color: gray;
+    border: 1px solid black;
+}
